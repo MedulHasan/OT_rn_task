@@ -1,4 +1,6 @@
 package com.orangetoolztask;
+import android.os.Bundle;
+import org.devio.rn.splashscreen.SplashScreen;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
@@ -12,6 +14,10 @@ public class MainActivity extends ReactActivity {
    * rendering of the component.
    */
   @Override
+  protected void onCreate(Bundle savedInstanceState) {
+        SplashScreen.show(this);
+        super.onCreate(savedInstanceState);
+    }
   protected String getMainComponentName() {
     return "orangeToolzTask";
   }
