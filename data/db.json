@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "email": "orangetoolz@gmail.com",
+      "password": "123456",
+      "name": "OrangeToolz",
+      "id": 1
+    },
+    {
+      "email": "medul@gmail.com",
+      "password": "123456",
+      "name": "Medul",
+      "id": 2
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1964&q=80",
+      "name": "BMW",
+      "description": "Looks good"
+    },
+    {
+      "name": "Audi",
+      "image": "https://images.unsplash.com/photo-1682687220208-22d7a2543e88?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1075&q=80",
+      "description": "My Choice ",
+      "id": 5
+    },
+    {
+      "name": "Toyota ",
+      "image": "https://images.unsplash.com/photo-1682687220208-22d7a2543e88?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1075&q=80",
+      "description": "Averahe",
+      "id": 6
+    },
+    {
+      "name": "Audi",
+      "image": "https://images.unsplash.com/photo-1682687220208-22d7a2543e88?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1075&q=80",
+      "description": "My Choice ",
+      "id": 7
+    }
+  ]
+}
